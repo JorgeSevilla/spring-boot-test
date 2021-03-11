@@ -17,7 +17,7 @@ import org.springframework.web.util.UriComponentsBuilder;
 import com.br.compasso.uol.model.Client;
 import com.br.compasso.uol.service.ClientService;
 import com.br.compasso.uol.util.CustomErrorType;
-import com.google.common.net.HttpHeaders;
+import org.springframework.http.HttpHeaders;
 
 
 @Controller
